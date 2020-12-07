@@ -1,1 +1,1 @@
-# Djabgo-Travelling
+# Django-Travelling
